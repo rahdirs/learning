@@ -1,7 +1,7 @@
 # learning
 HTML, CSS and Javascript
 
-##Introduction
+### Introduction
  - Website
  - Static Website and Dynamic Website
  - Web Programming Languages
@@ -9,7 +9,7 @@ HTML, CSS and Javascript
  - Front end Frameworks
  - Web Server 
  
-##HTML 
+### HTML 
  - DOM 
  - HTML Introduction
  - HTML structure
@@ -21,7 +21,7 @@ HTML, CSS and Javascript
  - Metadata
  - Goolge Search Indexing
 
-##CSS 
+### CSS 
  - CSS Introduction
  - Types of CSS implementation
  - Element Positioning 
@@ -30,7 +30,7 @@ HTML, CSS and Javascript
  - SCSS and LESS
  - CSS Frameworks
  
-##Javascript
+### Javascript
  - Javascript Introduction
  - Varibles, array and object
  - Javascript events
