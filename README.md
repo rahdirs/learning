@@ -1,5 +1,5 @@
 # learning
-HTML, CSS and Javascript
+HTML, CSS, Javascript and Jquery
 
 ### Introduction
  - Website
@@ -17,6 +17,10 @@ HTML, CSS and Javascript
  - Form elements
  - Image and file links
  - Types of Images
+	- JPEG
+	- PNG
+	- GIF
+	- SVG
  - Browser Storage
  - Metadata
  - Goolge Search Indexing
@@ -24,7 +28,13 @@ HTML, CSS and Javascript
 ### CSS 
  - CSS Introduction
  - Types of CSS implementation
- - Element Positioning 
+	- Internal
+	- External
+	- Inline
+ - Element Positioning
+	- display
+	- Margin
+	- Padding
  - CSS animation
  - Responsive Design
  - SCSS and LESS
@@ -36,4 +46,27 @@ HTML, CSS and Javascript
  - Javascript events
  - Debugging
  - Javascript Frameworks
+ - Json Format
 
+### jQuery
+ - Jquery Introduction
+ - Jquery Implementation
+ - Javascript & Jquery difference
+ - Jquery events
+ - Jquery DOM Mainpulation
+ - Jquery Traversing 
+ - Jquery Ajax 
+ 
+### UI learning design task
+
+#### Level 1
+ - Design the web page similar to below UI prototype.
+ - Show the collection of small cars on the bottom of the page.-  if you click a small car, it needs to display in large display mode and need to replace the existing large car.
+ 
+#### Level 2
+ - Create the JSON object for the collection of cars and details. - Loop it JSON and show the car and details.
+ - If you click a small car, it needs to change the large image and details as well.
+ 
+
+ ![UI learning design task](img/ui-learning-design-task.png)
+ 
