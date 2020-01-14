@@ -60,12 +60,14 @@ HTML, CSS, Javascript and Jquery
 ### UI learning design task
 
 #### Level 1
- - Design the web page similar to below UI prototype.
- - Show the collection of small cars on the bottom of the page.-  if you click a small car, it needs to display in large display mode and need to replace the existing large car.
+ - Design the web page similar to below UI prototype.
+ - Show the collection of small cars on the bottom of the page.
+ - if you click a small car, it needs to display in large display mode and need to replace the existing large car.
  
 #### Level 2
- - Create the JSON object for the collection of cars and details. - Loop it JSON and show the car and details.
- - If you click a small car, it needs to change the large image and details as well.
+ - Create the JSON object for the collection of cars and details. 
+ - Loop it JSON and show the car and details.
+ - If you click a small car, it needs to change the large image and details as well.
  
 
  ![UI learning design task](img/ui-learning-design-task.png)
