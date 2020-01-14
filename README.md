@@ -42,11 +42,11 @@ HTML, CSS, Javascript and Jquery
  
 ### Javascript
  - Javascript Introduction
- - Varibles, array and object
+ - Variables, array and object
  - Javascript events
  - Debugging
  - Javascript Frameworks
- - Json Format
+ - JSON Format
 
 ### jQuery
  - Jquery Introduction
@@ -62,11 +62,11 @@ HTML, CSS, Javascript and Jquery
 #### Level 1
  - Design the web page similar to below UI prototype.
  - Show the collection of small cars on the bottom of the page.
- - if you click a small car, it needs to display in large display mode and need to replace the existing large car.
+ - If you click a small car, it needs to show a large display mode and need to replace the existing car.
  
 #### Level 2
  - Create the JSON object for the collection of cars and details. 
- - Loop it JSON and show the car and details.
+ - Loop the JSON and show the car image and details.
  - If you click a small car, it needs to change the large image and details as well.
  
 
