@@ -73,9 +73,10 @@ HTML, CSS, Javascript and Jquery
  ![UI learning design task](img/ui-learning-design-task.png)
  
  
-#### Codepen Reference Link:
 
-[Front-end learning Task code](https://codepen.io/rahdirs/pen/gObZJdq)
+### Codepen Reference Link:
 
-[HTTP Request & Ajax](https://codepen.io/rahdirs/pen/jOEJNeg)
+ - [Front-end learning Task code](https://codepen.io/rahdirs/pen/gObZJdq)
+
+ - [HTTP Request & Ajax](https://codepen.io/rahdirs/pen/jOEJNeg)
  
