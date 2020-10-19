@@ -43,7 +43,12 @@ HTML, CSS, Javascript and Jquery
  
 ### Javascript
  - Javascript Introduction
- - Variables, array and object
+ - Variables 
+ - Array
+ - Object
+ - Funtions
+ - For loop
+ - Click function
  - Javascript events
  - Debugging
  - Javascript Frameworks
