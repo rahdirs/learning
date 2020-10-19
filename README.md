@@ -39,6 +39,7 @@ HTML, CSS, Javascript and Jquery
  - Responsive Design
  - SCSS and LESS
  - CSS Frameworks
+ - Id and Class usage
  
 ### Javascript
  - Javascript Introduction
