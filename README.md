@@ -59,10 +59,11 @@ HTML, CSS, Javascript and Jquery
  - Jquery Introduction
  - Jquery Implementation
  - Javascript & Jquery difference
- - Jquery events
- - Jquery DOM Mainpulation
- - Jquery Traversing 
+ - Jquery events (Click, onchange)
+ - Jquery DOM Mainpulation (Finding the Class and Id based elements)
  - Jquery Ajax 
+ - Jquery JSON - processing the Array, Object and JSON
+ - Jquery Each function for looping
  
 ### UI learning design task
 
