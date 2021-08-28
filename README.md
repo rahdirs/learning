@@ -76,6 +76,12 @@ HTML, CSS, Javascript and Jquery
  - Create the JSON object for the collection of cars and details. 
  - Loop the JSON and show the car image and details.
  - If you click a small car, it needs to change the large image and details as well.
+
+#### Display User Lists:
+ - User data URl : https://jsonplaceholder.typicode.com/users
+ - Image sample
+ - ![image](https://user-images.githubusercontent.com/30232057/131210108-303a62ab-02b2-4706-92f8-1106ad7dc0b8.png)
+
  
 
  ![UI learning design task](img/ui-learning-design-task.png)
