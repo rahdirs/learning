@@ -77,17 +77,17 @@ HTML, CSS, Javascript and Jquery
  - Loop the JSON and show the car image and details.
  - If you click a small car, it needs to change the large image and details as well.
 
-#### Display User Lists:
- - User data URl : https://jsonplaceholder.typicode.com/users
- - Image sample
- - ![image](https://user-images.githubusercontent.com/30232057/131210108-303a62ab-02b2-4706-92f8-1106ad7dc0b8.png)
-
- 
 
  ![UI learning design task](img/ui-learning-design-task.png)
  
  
+#### Display User Lists:
+ - User data URl : https://jsonplaceholder.typicode.com/users
+ - Image sample
+ ![image](https://user-images.githubusercontent.com/30232057/131210108-303a62ab-02b2-4706-92f8-1106ad7dc0b8.png)
 
+ 
+ 
 ### Codepen Reference Link:
 
 <!--  - [Front-end learning Task code](https://codepen.io/rahdirs/pen/gObZJdq)
