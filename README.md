@@ -96,3 +96,21 @@ HTML, CSS, Javascript and Jquery
 
  - [HTTP Request & Ajax](https://codepen.io/rahdirs/pen/jOEJNeg)
   -->
+
+### Flex box CSS
+- display: flex => enabiling the flex properties
+- flex-direction => row/Column
+- flex-wrap => arrange the box to the next line
+- justify-content => space between the boxes for row
+- align-items => space between the boxes for column
+- order => box rearrangement
+
+#### measurement =>
+- px, em, vh, %
+- margin/padding => px
+- flex box properties => %
+
+#### spacing:
+- margin => outside space
+- padding => inside space
+
