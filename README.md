@@ -114,3 +114,7 @@ HTML, CSS, Javascript and Jquery
 - margin => outside space
 - padding => inside space
 
+### Layout
+![image](https://github.com/user-attachments/assets/1bc8a742-e00d-48f2-ba2e-f6beb1d03e89)
+
+
