@@ -120,3 +120,6 @@ HTML, CSS, Javascript and Jquery
 ### Design Task
 ![image](https://github.com/user-attachments/assets/f3b1be64-f552-4c36-ace2-04991de5e0c8)
 
+### Design Task 2
+![image](https://github.com/user-attachments/assets/998dfc6b-85db-441a-9ae0-e0c1cf682dbf)
+
