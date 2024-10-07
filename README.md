@@ -117,4 +117,6 @@ HTML, CSS, Javascript and Jquery
 ### Layout
 ![image](https://github.com/user-attachments/assets/1bc8a742-e00d-48f2-ba2e-f6beb1d03e89)
 
+### Design Task
+![image](https://github.com/user-attachments/assets/f3b1be64-f552-4c36-ace2-04991de5e0c8)
 
