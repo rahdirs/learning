@@ -134,3 +134,4 @@ HTML, CSS, Javascript and Jquery
 ### Javascript Event Handling Task
 ![image](https://github.com/user-attachments/assets/4b87983a-78e0-4d04-8e50-0ae8b3f497c6)
 
+![image](https://github.com/user-attachments/assets/a00aee08-cb58-46d4-885f-c1c6e94345a6)
